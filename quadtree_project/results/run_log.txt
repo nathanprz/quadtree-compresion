@@ -1,0 +1,29 @@
+     uniform_64x64 tol=0   nodes=1       CR=1346.6301 MSE=0.0       build=0.22 ms
+     uniform_64x64 tol=16  nodes=1       CR=1346.6301 MSE=0.0       build=0.207 ms
+     uniform_64x64 tol=48  nodes=1       CR=1346.6301 MSE=0.0       build=0.24 ms
+   uniform_128x128 tol=0   nodes=1       CR=5386.5205 MSE=0.0       build=0.798 ms
+   uniform_128x128 tol=16  nodes=1       CR=5386.5205 MSE=0.0       build=0.796 ms
+   uniform_128x128 tol=48  nodes=1       CR=5386.5205 MSE=0.0       build=0.794 ms
+   uniform_256x256 tol=0   nodes=1       CR=21546.0822 MSE=0.0       build=3.084 ms
+   uniform_256x256 tol=16  nodes=1       CR=21546.0822 MSE=0.0       build=3.045 ms
+   uniform_256x256 tol=48  nodes=1       CR=21546.0822 MSE=0.0       build=3.049 ms
+     regions_64x64 tol=0   nodes=357     CR=14.3782  MSE=0.0       build=3.329 ms
+     regions_64x64 tol=16  nodes=357     CR=14.3782  MSE=0.0       build=3.385 ms
+     regions_64x64 tol=48  nodes=357     CR=14.3782  MSE=0.0       build=3.321 ms
+   regions_128x128 tol=0   nodes=709     CR=29.0733  MSE=0.0       build=8.166 ms
+   regions_128x128 tol=16  nodes=709     CR=29.0733  MSE=0.0       build=8.17 ms
+   regions_128x128 tol=48  nodes=709     CR=29.0733  MSE=0.0       build=8.138 ms
+   regions_256x256 tol=0   nodes=1661    CR=49.7537  MSE=0.0       build=21.905 ms
+   regions_256x256 tol=16  nodes=1661    CR=49.7537  MSE=0.0       build=22.899 ms
+   regions_256x256 tol=48  nodes=1661    CR=49.7537  MSE=0.0       build=22.787 ms
+      detail_64x64 tol=0   nodes=5461    CR=0.9469   MSE=0.0       build=32.808 ms
+      detail_64x64 tol=16  nodes=3689    CR=1.4014   MSE=8.0499    build=29.494 ms
+      detail_64x64 tol=48  nodes=533     CR=9.6556   MSE=45.1026   build=7.8 ms
+    detail_128x128 tol=0   nodes=21845   CR=0.9473   MSE=0.0       build=174.523 ms
+    detail_128x128 tol=16  nodes=14249   CR=1.4521   MSE=8.5252    build=101.261 ms
+    detail_128x128 tol=48  nodes=993     CR=20.782   MSE=45.4492   build=11.973 ms
+    detail_256x256 tol=0   nodes=87381   CR=0.9473   MSE=0.0       build=703.052 ms
+    detail_256x256 tol=16  nodes=55085   CR=1.5027   MSE=8.9732    build=574.999 ms
+    detail_256x256 tol=48  nodes=1929    CR=42.8515  MSE=41.8033   build=34.282 ms
+
+Listo. Resultados en /home/claude/quadtree_project/results
